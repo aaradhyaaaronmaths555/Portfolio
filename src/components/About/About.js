@@ -140,11 +140,7 @@ const About = () => {
             <Typography variant="body1">
               <GreenText>aboutaaradhya </GreenText>
               <DarkText> (main) </DarkText>
-              <GreenText> $</GreenText> Hello! I am Aaradhya. I am a
-              computer science student majoring in Cyber Security in Swinburne
-              University of Technology. Currently I am looking for an internship as
-              a web-developer. I have showcased my necessary skills and resume on
-              this portfolio.
+              <GreenText> $</GreenText> I am Aaradhya, a Cyber Security student at Swinburne University of Technology. Eager to bridge the gap between security and web development, I'm seeking an internship to apply my technical skills and contribute to innovative projects.
             </Typography>
           </Content>
         </StyledPaper>
@@ -169,7 +165,7 @@ const About = () => {
             </Typography>
             <Grid container spacing={2} sx={{ width: "80%", margin: "0 auto" }}>
               <Grid item xs={6} sx={{ color: "white", textAlign: "center" }}>
-                <Typography>Bootstrap</Typography>
+                <Typography>Material UI</Typography>
                 <Typography>HTML5</Typography>
                 <Typography>CSS3</Typography>
                 <Typography>OOP</Typography>
