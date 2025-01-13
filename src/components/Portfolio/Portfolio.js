@@ -190,7 +190,7 @@ const Portfolio = () => {
       title: "Mixology",
       description: "An elegant web application that brings the art of cocktail crafting to your fingertips. Discover, create, and master your favorite drink recipes.",
       image: Cocktail,
-      link: "https://cocktail-ecru.vercel.app/"
+      link: "https://mixology1.vercel.app/"
     },
     {
       title: "Sparky Sky",
